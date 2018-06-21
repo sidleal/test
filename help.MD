@@ -275,6 +275,10 @@ A lista de palavras do corpus não traz categorias gramaticais e junta as frequ�
 
 (0.1579 * percentual de palavras não familiares) + (0.0496 * quantidade média de palavras por sentença) + 3.6365
 
+**Recursos de PLN utilizados durante o cálculo**: 
+
+**Limitações da métrica**: 
+
 **Projeto**: GUTEN
 
 **Teste**: Não podemos acrescentar nenhuma despesa a mais no nosso orçamento. Já não temos recursos suficientes para a manutenção das escolas, por exemplo, e também precisamos valorizar o magistério - justifica a diretora do Departamento Pedagógico da SEC, Sonia Balzano.
@@ -5580,11 +5584,11 @@ A métrica faz a tokenização sem considerar descontrações. A descontração 
 
 
 
-## 
+## Proporção de types (despreza repetições de palavras) em relação à quantidade de tokens (computa repetições de palavras) no texto
 
 
 
-**Nome da Métrica**: ttr (type  token ratio)
+**Nome da Métrica**: ttr
 
 **Interpretação**: quanto maior o valor da métrica, mais complexo o texto
 
