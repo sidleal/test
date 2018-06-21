@@ -131,7 +131,7 @@ por isso, por enquanto, enquanto isso, enquanto, pois, além de, então, daí, p
 
 **Descrição da métrica**: proporção de palavras de conteúdo simples, sobre o total de palavras de conteúdo do texto
 
-Definição dos termos que aparecem na descrição da métrica
+**Definição dos termos que aparecem na descrição da métrica**:
 
 **Palavras Simples**: são palavras de baixa complexidade. Atualmente é utilizada a lista de palavras do Dicionário de palavras simples de Maria Tereza Biderman.
 
@@ -173,7 +173,9 @@ Definição dos termos que aparecem na descrição da métrica
 
 **Definição dos termos que aparecem na descrição da métrica**: 
 
-**Forma de cálculo da métrica**: contam-se as ocorrências de substantivos (tags ‘N’ e ‘NPROP’) Recursos de PLN utilizados durante o cálculo: POS tagger do nlpnet
+**Forma de cálculo da métrica**: contam-se as ocorrências de substantivos (tags ‘N’ e ‘NPROP’) 
+
+**Recursos de PLN utilizados durante o cálculo**: POS tagger do nlpnet
 
 **Limitações da métrica**: a precisão da métrica depende do desempenho do tagger 
 
